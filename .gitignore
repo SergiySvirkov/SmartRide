@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Expo
+.expo/
+__expo/
+
+# Android
+android/app/build/
+android/captures/
+android/build/
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Dependency directories
+**/android/app/libs/
+**/ios/Pods/
+
+# Misc
+.DS_Store
